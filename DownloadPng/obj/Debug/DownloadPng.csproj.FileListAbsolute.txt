@@ -1,0 +1,6 @@
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\bin\Debug\DownloadPng.exe.config
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\bin\Debug\DownloadPng.exe
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\bin\Debug\DownloadPng.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\obj\Debug\DownloadPng.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\obj\Debug\DownloadPng.exe
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\DownloadPng\DownloadPng\obj\Debug\DownloadPng.pdb
