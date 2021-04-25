@@ -9,7 +9,7 @@ All files (flag-image-links.txt, country-iso-codes.txt) were created with data p
 You can get data of iso codes, phone codes, and the image links of flags for each country (248) from booking.com by the browser console with javascript.  
 
 You can easily access country-related data under the personal details/phone number menu link + edit button. There are 248 country options on the dropdown.   
-<select class="bui-form__control" name="dial_code"> area contains all the countries. By choosing this line of the code, you can read all the data from console with javascript like below:   
+```select class="bui-form__control" name="dial_code"``` area contains all the countries. By choosing this line of the code, you can read all the data from console with javascript like below:   
 
 
 ```bash
@@ -20,7 +20,6 @@ for (i = 1; i < option.length; i++) {
 	countries[i] = option[i].innerText;
 	console.log(countries[i]);
 }
-
 ```
 
 ## Files
